@@ -5,7 +5,7 @@
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 
 ##
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-javascript.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
 ## Guess My Number
 
