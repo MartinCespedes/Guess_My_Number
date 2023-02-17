@@ -60,7 +60,7 @@ Git Clone https://github.com/MartinCespedes/Guess_My_Number.git
 
 ## Application Screenshot Preview 
 
-![Preview-1]
+![Preview-1](./images/Guess_My_Number_1.png)
 
 ##
 
