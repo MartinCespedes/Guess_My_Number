@@ -7,7 +7,7 @@
 
 ## Guess My Number
 
-- JavaScript Guess my Number Game
+- Guess My Number is a JavaScript game where Users guess a number between 1 and 20, and receive feedback on whether their guess is too high or too low. The game also tracks the number of attempts made by the User.
 
 ## Contents
 
@@ -27,13 +27,13 @@
 
 ## Description
 
-- "Guess My Number"  is a simple game where the computer picks a random number between 1 and 20, and the player has to guess the number. The game should display a message asking the player to guess a number between 1 and 20.
+- "Guess My Number"  is a simple game where the computer picks a random number between 1 and 20, and the User has to guess the number. The game should display a message asking the User to guess a number between 1 and 20.
 
-- The player enters their guess in an input field and submits it. The game checks the guess against the computer's number and displays a message indicating whether the guess was too high, too low, or correct.
+- The User enters their guess in an input field and submits it. The game checks the guess against the computer's number and displays a message indicating whether the guess was too high, too low, or correct.
 
 - If the guess was too high, the game displays a message saying "Too high, try again". If the guess was too low, the game will display a message saying "Too low, try again". If the guess was correct, the game displays a message saying "Congratulations, you guessed the number!".
 
-- The game also keeps track of the number of guesses the player has made and display this information after each guess. Additionally, the game has an option to start a new game after the player has either won or given up.
+- The game also keeps track of the number of guesses the User has made and display this information after each guess. Additionally, the game has an option to start a new game after the User has either won or given up.
 
 
 ## Installation
@@ -44,10 +44,10 @@ git Clone https://github.com/MartinCespedes/Guess_My_Number.git
 
 ## Usage
 
-- Guess My Number can be used as a fun way to test a player's guessing skills. 
-- To play the game, the user simply needs to enter their guess in the input field provided and click the 'Check' button. 
-- The game will then display a message indicating whether the guess was too high, too low, or correct, and the number of guesses the player has made. 
-- The user can then continue guessing until they correctly guess the number, or they can start a new game by clicking the 'Again' button. 
+- Guess My Number can be used as a fun way to test a User's guessing skills. 
+- To play the game, the User simply needs to enter their guess in the input field provided and click the 'Check' button. 
+- The game will then display a message indicating whether the guess was too high, too low, or correct, and the number of guesses the User has made. 
+- The User can then continue guessing until they correctly guess the number, or they can start a new game by clicking the 'Again' button. 
 - Guess My Number is suitable for educational purposes or as a fun pastime activity.
 
 ## Resources/Credit
@@ -64,7 +64,7 @@ git Clone https://github.com/MartinCespedes/Guess_My_Number.git
 
 ![Preview-1](./images/Guess_My_Number_1.png)
 
-## Application Screenshot Preview (if user wins)
+## Application Screenshot Preview (if User wins)
 
 ![Preview-2](./images/Guess_My_Number_2.png)
 
