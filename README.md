@@ -62,9 +62,9 @@ Git Clone https://github.com/MartinCespedes/Guess_My_Number.git
 
 ![Preview-1](./images/Guess_My_Number_1.png)
 
-##
+## Application Screenshot Preview (if user wins)
 
-![Preview-2]
+![Preview-2](./images/Guess_My_Number_2.png)
 
 
 ##
