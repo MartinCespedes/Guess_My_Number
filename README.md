@@ -44,7 +44,11 @@ git Clone https://github.com/MartinCespedes/Guess_My_Number.git
 
 ## Usage
 
-- Guess a random number 
+- Guess My Number can be used as a fun way to test a player's guessing skills. 
+- To play the game, the user simply needs to enter their guess in the input field provided and click the 'Check' button. 
+- The game will then display a message indicating whether the guess was too high, too low, or correct, and the number of guesses the player has made. 
+- The user can then continue guessing until they correctly guess the number, or they can start a new game by clicking the 'Again' button. 
+- Guess My Number is suitable for educational purposes or as a fun pastime activity.
 
 ## Resources/Credit
 
