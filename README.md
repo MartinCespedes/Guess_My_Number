@@ -1,11 +1,9 @@
 ##
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+![Badge HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-##
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+![Badge CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-##
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+![Badge JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Guess My Number
 
@@ -41,7 +39,7 @@
 ## Installation
 
 ```md
-Git Clone https://github.com/MartinCespedes/Guess_My_Number.git
+git Clone https://github.com/MartinCespedes/Guess_My_Number.git
 ```
 
 ## Usage
@@ -50,7 +48,7 @@ Git Clone https://github.com/MartinCespedes/Guess_My_Number.git
 
 ## Resources/Credit
 
-- Author Martin Cespedes - [Link to my Github](https://github.com/MartinCespedes)
+- Author: Martin Cespedes - [Link to my Github](https://github.com/MartinCespedes)
 
 ## Features
 
