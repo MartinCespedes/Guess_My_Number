@@ -7,6 +7,8 @@
 
 ## Guess My Number
 
+- [Live Link to Guess My Number Application](https://martincespedes.github.io/Guess_My_Number/)
+
 - Guess My Number is a JavaScript game where Users guess a number between 1 and 20, and receive feedback on whether their guess is too high or too low. The game also tracks the number of attempts made by the User.
 
 ## Contents
