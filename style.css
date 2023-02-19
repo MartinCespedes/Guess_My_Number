@@ -238,3 +238,12 @@ h1 {
     margin-bottom: 0;
   }
 } 
+
+/* Media query for iPhone 14 or devices with similar viewport width */
+@media only screen and (max-width: 390px) {
+  .again {
+    position: static;
+    display: block;
+    margin-top: 2rem;
+  }
+}
