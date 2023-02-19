@@ -117,3 +117,35 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+/* MEDIA QUERIES */
+@media only screen and (min-width: 768px) {
+  main {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+  .left,
+  .right {
+    width: 50%;
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  header {
+    height: 25vh;
+  }
+  main {
+    height: 75vh;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .left,
+  .right {
+    width: 40%;
+    text-align: left;
+    margin-bottom: 0;
+  }
+} 
